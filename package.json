@@ -1,0 +1,20 @@
+{
+  "name": "server-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nasyarobby/server-monitor"
+  },
+  "author": "Nasyarobby N.Putra",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^7.0.0",
+    "pushbullet": "^2.4.0"
+  }
+}
