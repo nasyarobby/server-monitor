@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var dotenv = require("dotenv").config();
 var Pushbullet = require("pushbullet");
 var Axios = require("axios");
