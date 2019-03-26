@@ -1,5 +1,6 @@
 #!/usr/bin/env node
-var dotenv = require("dotenv").config();
+var path = require("path");
+var dotenv = require("dotenv").config({path: path.join(__dirname, '.env')})
 var Pushbullet = require("pushbullet");
 var Axios = require("axios");
 
