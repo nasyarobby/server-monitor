@@ -13,7 +13,7 @@
   "author": "Nasyarobby N.Putra",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "">=0.18.1"",
     "dotenv": "^7.0.0",
     "pushbullet": "^2.4.0"
   }
